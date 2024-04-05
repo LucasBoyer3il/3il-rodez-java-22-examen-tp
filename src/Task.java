@@ -13,6 +13,10 @@ public class Task {
         this.priorite = priorite;
     }
 
+    public Task() {
+
+    }
+
     //TODO : Des méthodes pour effectuer des opérations sur les tâches, telles que la comparaison, la validation, etc.
 
     public int getId() {

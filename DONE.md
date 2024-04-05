@@ -6,12 +6,11 @@ Ce document récapitule les réalisations effectuées dans le cadre du TP de ges
 
 ### Ajout d'une tâche
 
-- [ ] Formulaire de saisie des détails de la tâche.
-- [ ] Bouton "Ajouter".
+- [ x ] Formulaire de saisie des détails de la tâche.
+- [ x ] Bouton "Ajouter".
 - [ ] Test unitaire associé.
 
-(Explication et justification de ce qui a été fait...)
-
+Implémentation des zones de saisie des tâches avec leurs titre associée. Un bouton en dessous qui permet d'ajouter la tâche à un tableau. Lors de l'appui sur le bouton ajouter, une tâche est crréée et ajoutée au tableau de donnée et les zones de saisies sont mise à blanc. Un deuxième bouton en dessous qui permet d'afficher la liste des tâches dans un autre panel. 
 ### Modification d'une tâche
 
 - [ ] Mécanisme de sélection et de modification de la tâche.
@@ -30,11 +29,11 @@ Ce document récapitule les réalisations effectuées dans le cadre du TP de ges
 
 ### Visualisation des tâches
 
-- [ ] Affichage des détails des tâches existantes.
+- [ X ] Affichage des détails des tâches existantes.
 - [ ] Mécanisme de filtrage ou de tri des tâches.
 - [ ] Test unitaire associé.
 
-(Explication et justification de ce qui a été fait...)
+Sur l'autre panel se trouve un tableau contenant la liste des tâches ainsi qu'un bouton retour pour revenir au panel de saisie des tâches.
 
 ### Gestion des priorités
 
